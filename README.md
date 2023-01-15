@@ -34,7 +34,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 ### Github Stats
 
-[![Erico Rizky Febarian GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=codeico&layout=compact&hide=html)](https://github.com/codeico) [![Erico Rizky Febarian GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)](https://github.com/codeico)
+[![Erico Rizky Febarian GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=codeico&layout=compac)](https://github.com/codeico) [![Erico Rizky Febarian GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)](https://github.com/codeico)
 
 ### Github Repos
 
