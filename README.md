@@ -28,7 +28,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 ### My Portofolio
 
 <p align="left">
-<a href="https://www.bangcode.my.id" target="_blank"><img alt="Portofolio" src="https://img.shields.io/badge/Website-www.bangcode.my.id-red?style=flat&logo=google-chrome"></a>
+<a href="https://www.bangcode.net" target="_blank"><img alt="Portofolio" src="https://img.shields.io/badge/Website-www.bangcode.net-red?style=flat&logo=google-chrome"></a>
 <a href="https://www.sosmedku.net" target="_blank"><img alt="SOSMEDKU.Net" src="https://img.shields.io/badge/Website-www.sosmedku.net-blue?style=flat&logo=google-chrome"></a>
 </p>
 
@@ -43,7 +43,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="left">
-<a href="https://www.bangcode.my.id" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.bangcode.my.id-red?style=flat&logo=google-chrome"></a>
+<a href="https://www.bangcode.net" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.bangcode.net-red?style=flat&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/bangico/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@bangico-red?style=flat&logo=linkedin"></a>
 <a href="mailto:bangico2002@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-bangico2002@gmail.com-red?style=flat&logo=gmail"></a>
 </p>
